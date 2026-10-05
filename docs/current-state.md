@@ -5,7 +5,7 @@
 **Sources:**
 
 - `charterschooljobs.com`, observed 2026-08-06 (Orchard 1.10.3, `BoomerangTemplate` theme). Pages reviewed: home, Annual Posting Plans, Buy Posting Credits, plus common navigation/footer chrome.
-- *Charter School Jobs Price Sheet* (Google Sheet, modified 2026-08-06) — the authoritative price schedule, including the à la carte prices the live page renders via JavaScript.
+- *Charter School Jobs Price Sheet* (Google Sheet, modified 2026-08-06) — the authoritative price schedule, including the à la carte prices the live page renders via JavaScript. Snapshot: [`sources/2026-10-05-price-sheet.csv`](sources/2026-10-05-price-sheet.csv).
 - *K12connect Mission Statement (2022)* (Google Doc).
 
 This document records **what the live system actually does**. Where it contradicts a strategy document, the live system is treated as the fact and the contradiction is flagged — not silently reconciled.

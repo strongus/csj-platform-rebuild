@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+artifacts/
+
+# User-specific / IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local configuration and secrets
+appsettings.Development.json
+appsettings.Local.json
+*.pubxml.user
+secrets.json
+
+# Orchard Core tenant data (App_Data holds per-tenant SQLite, media, and settings)
+App_Data/
+
+# Test and coverage output
+[Tt]est[Rr]esult*/
+coverage*.json
+coverage*.xml
+*.coverage

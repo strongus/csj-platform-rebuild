@@ -12,6 +12,8 @@ Canonical source of truth for the CSJ platform rebuild. If a decision is not wri
 | `adr/NNNN-*.md` | One decision per file: context, options, tradeoffs, consequences | Often — append, don't rewrite |
 | `adr/README.md` | ADR index and status table | With each new ADR |
 | `specs/*.md` | Implementation work items with runnable acceptance criteria | Superseded when the work ships |
+| `business-review.md` | Business-level review of the plans: commercial and roadmap pushback, proposals not decisions | When plans change |
+| `sources/` | Frozen, dated snapshots of external evidence cited by analysis documents; see `sources/README.md` | Append only — new exports, never edits |
 
 **Specs are not decisions.** A spec turns already-decided architecture into buildable work; if writing one surfaces a genuine choice, that belongs in an ADR first. Specs reference `docs/` rather than restating it, and their acceptance criteria are commands to run, not properties to inspect.
 

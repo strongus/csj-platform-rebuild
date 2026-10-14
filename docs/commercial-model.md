@@ -2,11 +2,12 @@
 
 **Status:** Analysis, v0.1
 **Date:** 2026-08-06
+
 **Sources:**
 
-- *Charter School Jobs® — Employer Conversion Strategy* (Google Doc, July 2026) — audited pricing, journey, lifecycle plan
-- *K12connect Strategy* handwritten notes (dated pages, latest Jan 5 2026) — product vision
-- `K12connect_Domain_List.csv` (105 domains) — revealed product and segment intent
+- *Charter School Jobs® — Employer Conversion Strategy* (Google Doc, July 2026) — audited pricing, journey, lifecycle plan. Snapshot: [`sources/2026-10-05-employer-conversion-strategy.pdf`](sources/2026-10-05-employer-conversion-strategy.pdf)
+- *K12connect Strategy* handwritten notes (dated pages, latest Jan 5 2026) — product vision. Snapshot: [`sources/2026-10-05-k12connect-strategy-notes.txt`](sources/2026-10-05-k12connect-strategy-notes.txt)
+- `K12connect_Domain_List.csv` (105 domains) — revealed product and segment intent. Snapshot: [`sources/2026-10-05-k12connect-domain-list.csv`](sources/2026-10-05-k12connect-domain-list.csv)
 
 This document derives the commercial model from those sources. It exists separately from [`blueprint.md`](blueprint.md) because it is *evidence-derived* rather than *decided* — several items below are inferences that need Kent's confirmation, marked **[CONFIRM]**.
 
